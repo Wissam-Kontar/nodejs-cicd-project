@@ -1,0 +1,14 @@
+
+{
+  "name": "nodejs-cicd-project",
+  "version": "1.0.0",
+  "description": "Node.js CI/CD Practice",
+  "main": "index.js",
+  "scripts": {
+    "build": "node -e \"console.log('Build successful')\"",
+    "test": "node test.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
